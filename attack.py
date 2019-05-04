@@ -1,4 +1,8 @@
 #! /usr/bin/python
+#
+# run it this way: python3 attack.py <IP_Target>
+#
+
 
 from scapy.all import *
 from os import popen
